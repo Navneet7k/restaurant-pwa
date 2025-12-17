@@ -102195,7 +102195,7 @@ else{s=q.f
 s===$&&A.a()
 r=q.r
 r===$&&A.a()
-r=A.dO(p,B.f,A.dw(A.bc(A.b([new A.dM(s,!1,A.aqc(A.d2("assets/images/rossanos.png",p,150,150),r),p),B.a6,B.Hn],t.p),B.q,B.b1,B.p),p,p),p,!1,p,p,p)
+r=A.dO(p,B.f,A.dw(A.bc(A.b([new A.dM(s,!1,A.aqc(A.d2("assets/icon/icon.png",p,150,150),r),p),B.a6,B.Hn],t.p),B.q,B.b1,B.p),p,p),p,!1,p,p,p)
 s=r}return new A.EO(o,s,n,m,!1,p)}}
 A.awY.prototype={
 $0(){return this.a.w=this.b},
