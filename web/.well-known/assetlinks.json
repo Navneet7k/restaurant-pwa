@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.restaurant.zingmyorder",
+      "sha256_cert_fingerprints": [
+        "D3:98:01:3F:B1:E1:64:FB:16:08:2B:0C:4C:44:09:3B:77:F7:9D:7E:3E:60:AB:FE:FA:E5:3E:38:47:D1:38:6D"
+      ]
+    }
+  }
+]
